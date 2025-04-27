@@ -28,7 +28,7 @@ This project provides a convenient way to extract vocals from a song and generat
 2. **Install dependencies:** Run the script in your terminal.
 
 ```bash
-pip install demucs torch assemblyai dotenv
+pip install demucs assemblyai dotenv
 ```
 
 ## Usage
